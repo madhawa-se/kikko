@@ -1,6 +1,7 @@
 # kikkio
 
-[![N|Solid](kkimg)](https://kk)
+![kikko logo](https://raw.githubusercontent.com/madhawa-se/kikko/master/logo.png)
+
 
 Kikko allows you to kick start your next project without worring about configuration and setup.
 
